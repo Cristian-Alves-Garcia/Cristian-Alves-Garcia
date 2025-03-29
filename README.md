@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Cristian Alves Garcia
+# Cristian Alves Garcia
 
 **`Desenvolvedor FullStack`**
 
@@ -24,7 +24,7 @@ Sou Cristian Alves Garcia, tenho 20 anos e sou formado em Informatica pelo Insti
 <img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 
 
-### 📊 Estatísticas
+# 📊 Estatísticas
 
 <p>
   <img 
