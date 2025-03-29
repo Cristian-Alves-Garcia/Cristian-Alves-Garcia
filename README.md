@@ -33,4 +33,9 @@ Sou Cristian Alves Garcia, tenho 20 anos e sou formado em Informatica pelo Insti
   <img src="https://github-readme-stats.vercel.app/api?username=Cristian-Alves-Garcia&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Alves-Garcia&layout=compact&theme=radical" />
 </div>
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cristian-Alves-Garcia/Cristian-Alves-Garcia/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cristian-Alves-Garcia/Cristian-Alves-Garcia/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cristian-Alves-Garcia/Cristian-Alves-Garcia/output/github-contribution-grid-snake.svg">
+</picture>
 
