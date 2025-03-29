@@ -23,7 +23,7 @@ Sou Cristian Alves Garcia, tenho 20 anos e sou formado em Informatica pelo Insti
 
 <img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 
-<img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+<img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
