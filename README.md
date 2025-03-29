@@ -27,6 +27,8 @@ Sou Cristian Alves Garcia, tenho 20 anos e sou formado em Informatica pelo Insti
  
 # 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian-Alves-Garcia&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical)
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cristian-Alves-Garcia&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Alves-Garcia&layout=compact&theme=radical" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Alves-Garcia&layout=compact&theme=radical)
