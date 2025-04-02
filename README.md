@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Sou Cristian Alves Garcia, tenho 20 anos e sou formado em Informatica pelo Instituto Federal do Paraná (IFPR). Sou um desenvolvedor apaixonado por tecnologia, com sólida experiência em desenvolvimento web e banco de dados. Meu foco está na criação de aplicações eficientes, escaláveis e com interfaces modernas. Tenho habilidades em HTML, CSS, JavaScript, Vue.js, React.js, Python, MySQL e MongoDB.Sou capaz de trabalhar bem em equipe e estou sempre em busca de inovação, aprendendo constantemente novas tecnologias e soluções criativas para problemas do dia a dia. Estou em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores. Para mais informações, você pode me contatar pelo e-mail: 00022333az@gmail.com,telefone:(45)984110024 ou através do meu perfil no LinkedIn:https://www.linkedin.com/in/cristian-alves-1910ba28b/?trk=opento_sprofile_details.
+Sou Cristian Alves Garcia, tenho 20 anos e sou formado em Informatica pelo Instituto Federal do Paraná (IFPR). Sou um desenvolvedor apaixonado por tecnologia, com sólida experiência em desenvolvimento web e banco de dados. Meu foco está na criação de aplicações eficientes, escaláveis e com interfaces modernas. Tenho habilidades em HTML, CSS, JavaScript, Vue.js, React.js, Python, MySQL e MongoDB.Sou capaz de trabalhar bem em equipe e estou sempre em busca de inovação, aprendendo constantemente novas tecnologias e soluções criativas.
 
 
 ### 🤖 Linguagens e Tecnologias
@@ -29,7 +29,7 @@ Sou Cristian Alves Garcia, tenho 20 anos e sou formado em Informatica pelo Insti
 
  <br>
  
-# 📊 Estatísticas
+## 📊 Estatísticas
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-stats.vercel.app/api?username=Cristian-Alves-Garcia&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=radical" />
