@@ -31,11 +31,13 @@ Sou Cristian Alves Garcia, tenho 20 anos e sou formado em Informatica pelo Insti
  
 ## 📊 Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cristian-Alves-Garcia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Alves-Garcia&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristian-Alves-GarciaE&theme=dark&hide_border=true" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Cristian-Alves-Garcia&show_icons=true&theme=radical" 
+         style="height: 180px;">
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Alves-Garcia&layout=compact&theme=radical" 
+         style="height: 180px;">
+    
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristian-Alves-Garcia&theme=radical" 
+         style="height: 180px;">
 </div>
