@@ -29,7 +29,7 @@ Sou Cristian Alves Garcia, tenho 20 anos e sou formado em Informatica pelo Insti
 
  <br>
  
-## 📊 Estatísticas
+## 📊 Estatísticas(ERROR 404)
 
 <div style="display: flex; flex-direction: column; gap: 10px; max-width: 400px;">
   
