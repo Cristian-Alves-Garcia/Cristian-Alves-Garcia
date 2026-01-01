@@ -34,18 +34,7 @@ Sou Cristian Alves Garcia, tenho 20 anos e sou formado em Informatica pelo Insti
 <div style="display: flex; flex-direction: column; gap: 10px; max-width: 400px;">
   
   <!-- Total de repositórios -->
-  <img src="https://img.shields.io/github/repo-count/Cristian-Alves-Garcia?color=blue&style=for-the-badge" 
+  <img src="https://github.com/Cristian-Alves-Garcia/Cristian-Alves-Garcia/blob/main/sstatis.png" 
        alt="Total Repos">
   
-  <!-- Seguidores -->
-  <img src="https://img.shields.io/github/followers/Cristian-Alves-Garcia?color=green&style=for-the-badge" 
-       alt="Followers">
-  
-  <!-- Estrelas recebidas -->
-  <img src="https://img.shields.io/github/stars/Cristian-Alves-Garcia?color=yellow&style=for-the-badge" 
-       alt="Stars">
-  
-  <!-- Linguagem principal -->
-  <img src="https://img.shields.io/github/languages/top/Cristian-Alves-Garcia?style=for-the-badge" 
-       alt="Top Language">
 </div>
