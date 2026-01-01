@@ -31,13 +31,21 @@ Sou Cristian Alves Garcia, tenho 20 anos e sou formado em Informatica pelo Insti
  
 ## 📊 Estatísticas
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Cristian-Alves-Garcia&show_icons=true&theme=radical" 
-         style="height: 180px;">
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-Alves-Garcia&layout=compact&theme=radical" 
-         style="height: 180px;">
-    
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristian-Alves-Garcia&theme=radical" 
-         style="height: 180px;">
+<div style="display: flex; flex-direction: column; gap: 10px; max-width: 400px;">
+  
+  <!-- Total de repositórios -->
+  <img src="https://img.shields.io/github/repo-count/Cristian-Alves-Garcia?color=blue&style=for-the-badge" 
+       alt="Total Repos">
+  
+  <!-- Seguidores -->
+  <img src="https://img.shields.io/github/followers/Cristian-Alves-Garcia?color=green&style=for-the-badge" 
+       alt="Followers">
+  
+  <!-- Estrelas recebidas -->
+  <img src="https://img.shields.io/github/stars/Cristian-Alves-Garcia?color=yellow&style=for-the-badge" 
+       alt="Stars">
+  
+  <!-- Linguagem principal -->
+  <img src="https://img.shields.io/github/languages/top/Cristian-Alves-Garcia?style=for-the-badge" 
+       alt="Top Language">
 </div>
