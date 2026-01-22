@@ -1,6 +1,6 @@
 #!/bin/sh
 # TinyCore DWM Auto-Installer
-# Repo: https://github.com/seuusuario/tinycore-dwm-setup
+# Repo: https://github.com/Cristian-Alves-Garcia/Cristian-Alves-Garcia
 
 set -e  # Para em caso de erro
 
